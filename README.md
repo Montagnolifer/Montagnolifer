@@ -1,10 +1,10 @@
-### Olá Sou Fernando Montagnoli 🚀
+## Olá Sou Fernando Montagnoli 🚀
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-montagnoli-8036b7139/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/montagnoli.feer/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/fernando.montagnoli.10/)
 
-### Tecnologias que utilizo no meu dia a dia 👩‍💻
+## Tecnologias que utilizo no meu dia a dia 👩‍💻
 
 <div style="display: inline_block; padmding: 2%"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
